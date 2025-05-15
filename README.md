@@ -1,1 +1,3 @@
-# guiprog_finals
+# guiprog_finals\
+
+This project is Store E-Commerce UI this is a null-safe implementation. The design emphasizes eco-friendliness through an earthy color palette (#4CAF50 greens) and Poppins typography, enhanced with unique UI elements like parallax image effects and animated transitions. Technical highlights include Provider state management, cached image loading, and shimmer placeholders. Lisod nga parts kay ang pag-handle sa null safety sa cart operations, pero na-solve nako pinaagi sa proper type checking. Na-complete nako tanan requirements ug gidugangan pa ug unique features sama sa pull-to-refresh ug empty state illustrations.
